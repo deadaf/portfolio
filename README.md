@@ -1,2 +1,1 @@
-# portfolio
-*isko banayenge next.js m* 
+##portofolio
